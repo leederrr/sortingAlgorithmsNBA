@@ -1,6 +1,6 @@
 # sortingAlgorithmsNBA
 ## Overview
-> All sorting analysis was done in this markdown file. The code, which can be found in this repository, was programmed in C++.
+> All sorting analysis was done in this markdown file. Some of the code, which can be found in this repository, was programmed in C++.
 >
 > 
 > This data set represents the NBA player performance statistics from the 1996 to 2021 basketball seasons. There are repeats in the players (i.e., if they played for a different team). See <https://www.kaggle.com/datasets/justinas/nba-players-data> for more information on the dataset/data collection. 

@@ -1,8 +1,3 @@
-/**
- * Name: McKenzie Kelley
- * Course: CS 124 Section A
-*/
-
 #ifndef NBA_H
 #define NBA_H
 
